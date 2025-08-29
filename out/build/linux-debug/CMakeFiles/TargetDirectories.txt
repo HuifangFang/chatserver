@@ -1,0 +1,10 @@
+/home/fang/.vs/chat/out/build/linux-debug/CMakeFiles/edit_cache.dir
+/home/fang/.vs/chat/out/build/linux-debug/CMakeFiles/rebuild_cache.dir
+/home/fang/.vs/chat/out/build/linux-debug/src/CMakeFiles/edit_cache.dir
+/home/fang/.vs/chat/out/build/linux-debug/src/CMakeFiles/rebuild_cache.dir
+/home/fang/.vs/chat/out/build/linux-debug/src/server/CMakeFiles/ChatServer.dir
+/home/fang/.vs/chat/out/build/linux-debug/src/server/CMakeFiles/edit_cache.dir
+/home/fang/.vs/chat/out/build/linux-debug/src/server/CMakeFiles/rebuild_cache.dir
+/home/fang/.vs/chat/out/build/linux-debug/src/client/CMakeFiles/ChatClient.dir
+/home/fang/.vs/chat/out/build/linux-debug/src/client/CMakeFiles/edit_cache.dir
+/home/fang/.vs/chat/out/build/linux-debug/src/client/CMakeFiles/rebuild_cache.dir
